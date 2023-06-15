@@ -1,0 +1,822 @@
+[
+  {
+    "episodeNumber": 1,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzUxOA==&token=Cf6gDXV1R6Esr7OyXLrF5A&expires=1686851519"
+      },
+      "sources": [
+        {
+          "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1.1677592419.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1.1677592419.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1.1677592419.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1.1677592419.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1.1677592419.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www009.anifastcdn.info/videos/hls/FvPy8VNn9yoJzYlrnjBVGQ/1686858720/3518/0b594d900f47daabc194844092384914/ep.1.1677592419.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzUxOA==&token=Cf6gDXV1R6Esr7OyXLrF5A&expires=1686851519"
+    }
+  },
+  {
+    "episodeNumber": 2,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzUyMQ==&token=-PpWAT6U_PiqUwsFHMX1_A&expires=1686851447"
+      },
+      "sources": [
+        {
+          "url": "https://www012.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.2.1677608464.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www012.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.2.1677608464.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www012.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.2.1677608464.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www012.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.2.1677608464.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www012.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.2.1677608464.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www012.anifastcdn.info/videos/hls/MQlE5xGwFAsgF_-6E2B3GQ/1686858648/3521/0b594d900f47daabc194844092384914/ep.2.1677608464.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzUyMQ==&token=-PpWAT6U_PiqUwsFHMX1_A&expires=1686851447"
+    }
+  },
+  {
+    "episodeNumber": 3,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzUyMw==&token=PaunZGoLgaZYbmp1BudsHA&expires=1686851449"
+      },
+      "sources": [
+        {
+          "url": "https://www014.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.3.1677611019.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www014.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.3.1677611019.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www014.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.3.1677611019.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www014.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.3.1677611019.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www014.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.3.1677611019.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www014.anifastcdn.info/videos/hls/Ep95TAt7eeyqXpofeIb0Qw/1686858650/3523/0b594d900f47daabc194844092384914/ep.3.1677611019.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzUyMw==&token=PaunZGoLgaZYbmp1BudsHA&expires=1686851449"
+    }
+  },
+  {
+    "episodeNumber": 4,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzUyNw==&token=raYH47NvLY3f6vesgKultQ&expires=1686851451"
+      },
+      "sources": [
+        {
+          "url": "https://www018.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.4.1677608495.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www018.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.4.1677608495.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www018.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.4.1677608495.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www018.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.4.1677608495.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www018.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.4.1677608495.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www018.anifastcdn.info/videos/hls/mwihTO69pXyOeF15ZeHIGA/1686858652/3527/0b594d900f47daabc194844092384914/ep.4.1677608495.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzUyNw==&token=raYH47NvLY3f6vesgKultQ&expires=1686851451"
+    }
+  },
+  {
+    "episodeNumber": 5,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzUyOQ==&token=tjSmEe67hzl7kf5WPRvoBg&expires=1686851454"
+      },
+      "sources": [
+        {
+          "url": "https://www020.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.5.1677648809.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www020.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.5.1677648809.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www020.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.5.1677648809.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www020.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.5.1677648809.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www020.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.5.1677648809.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www020.anifastcdn.info/videos/hls/-X_HPHXrDulVN73K3NiPXA/1686858655/3529/0b594d900f47daabc194844092384914/ep.5.1677648809.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzUyOQ==&token=tjSmEe67hzl7kf5WPRvoBg&expires=1686851454"
+    }
+  },
+  {
+    "episodeNumber": 6,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzUzMw==&token=RXJoaIbjxCcPSrSo_tJSDg&expires=1686851457"
+      },
+      "sources": [
+        {
+          "url": "https://www024.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.6.1677610118.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www024.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.6.1677610118.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www024.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.6.1677610118.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www024.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.6.1677610118.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www024.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.6.1677610118.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www024.anifastcdn.info/videos/hls/s5AeATr3NVF7oM9e8GR4yQ/1686858658/3533/0b594d900f47daabc194844092384914/ep.6.1677610118.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzUzMw==&token=RXJoaIbjxCcPSrSo_tJSDg&expires=1686851457"
+    }
+  },
+  {
+    "episodeNumber": 7,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzUzNg==&token=YfSp8D525OsawetMS3alzQ&expires=1686851527"
+      },
+      "sources": [
+        {
+          "url": "https://www027.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.7.1677637898.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www027.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.7.1677637898.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www027.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.7.1677637898.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www027.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.7.1677637898.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www027.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.7.1677637898.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www027.anifastcdn.info/videos/hls/3Vt2XXSjtzrefN3SHQ4AHw/1686858728/3536/0b594d900f47daabc194844092384914/ep.7.1677637898.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzUzNg==&token=YfSp8D525OsawetMS3alzQ&expires=1686851527"
+    }
+  },
+  {
+    "episodeNumber": 8,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzU0MA==&token=83_7T-KQQLuqG4vAqjMWhw&expires=1686851461"
+      },
+      "sources": [
+        {
+          "url": "https://www001.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.8.1677590505.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www001.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.8.1677590505.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www001.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.8.1677590505.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www001.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.8.1677590505.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www001.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.8.1677590505.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www001.anifastcdn.info/videos/hls/ZEhwKhslcylAJUZL5kX8xQ/1686858662/3540/0b594d900f47daabc194844092384914/ep.8.1677590505.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzU0MA==&token=83_7T-KQQLuqG4vAqjMWhw&expires=1686851461"
+    }
+  },
+  {
+    "episodeNumber": 9,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzU0NA==&token=sMcwATQDG5QBOvVgGPF1sA&expires=1686851463"
+      },
+      "sources": [
+        {
+          "url": "https://www005.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.9.1677594662.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www005.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.9.1677594662.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www005.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.9.1677594662.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www005.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.9.1677594662.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www005.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.9.1677594662.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www005.anifastcdn.info/videos/hls/pnhrtn3gx0Y5oXJG6Sd9iw/1686858664/3544/0b594d900f47daabc194844092384914/ep.9.1677594662.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzU0NA==&token=sMcwATQDG5QBOvVgGPF1sA&expires=1686851463"
+    }
+  },
+  {
+    "episodeNumber": 10,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzU0OA==&token=53EvgbJc8SPCvkmwEfnaSQ&expires=1686851466"
+      },
+      "sources": [
+        {
+          "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.10.1677593058.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.10.1677593058.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.10.1677593058.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.10.1677593058.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.10.1677593058.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www009.anifastcdn.info/videos/hls/GxszeiDK28Bj3TpYaDDC6g/1686858667/3548/0b594d900f47daabc194844092384914/ep.10.1677593058.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzU0OA==&token=53EvgbJc8SPCvkmwEfnaSQ&expires=1686851466"
+    }
+  },
+  {
+    "episodeNumber": 11,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzU1MA==&token=_DRcUSgiM1lsxKEmDZCGvA&expires=1686853803"
+      },
+      "sources": [
+        {
+          "url": "https://www011.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.11.1677649115.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www011.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.11.1677649115.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www011.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.11.1677649115.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www011.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.11.1677649115.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www011.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.11.1677649115.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www011.anifastcdn.info/videos/hls/0kSBaxx6kH4Qar27w5w-nw/1686861003/3550/0b594d900f47daabc194844092384914/ep.11.1677649115.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzU1MA==&token=_DRcUSgiM1lsxKEmDZCGvA&expires=1686853803"
+    }
+  },
+  {
+    "episodeNumber": 12,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzU1OA==&token=U1BPVaTW1yftVu0tYDEuTg&expires=1686853545"
+      },
+      "sources": [
+        {
+          "url": "https://www019.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.12.1677608838.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www019.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.12.1677608838.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www019.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.12.1677608838.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www019.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.12.1677608838.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www019.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.12.1677608838.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www019.anifastcdn.info/videos/hls/EsvmtX9ytaxjCY7kjeY8sg/1686860745/3558/0b594d900f47daabc194844092384914/ep.12.1677608838.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzU1OA==&token=U1BPVaTW1yftVu0tYDEuTg&expires=1686853545"
+    }
+  },
+  {
+    "episodeNumber": 13,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzU2OQ==&token=-UZm6dVEUkKPIHPwsNQXxQ&expires=1686853552"
+      },
+      "sources": [
+        {
+          "url": "https://www030.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.13.1677648815.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www030.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.13.1677648815.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www030.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.13.1677648815.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www030.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.13.1677648815.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www030.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.13.1677648815.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www030.anifastcdn.info/videos/hls/14_W_fJ-1YV2ieXHEOpLKA/1686860753/3569/0b594d900f47daabc194844092384914/ep.13.1677648815.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzU2OQ==&token=-UZm6dVEUkKPIHPwsNQXxQ&expires=1686853552"
+    }
+  },
+  {
+    "episodeNumber": 14,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzU3Mg==&token=osPPRXVn9IsxMeR32sfLoQ&expires=1686853555"
+      },
+      "sources": [
+        {
+          "url": "https://www003.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.14.1677592460.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www003.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.14.1677592460.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www003.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.14.1677592460.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www003.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.14.1677592460.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www003.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.14.1677592460.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www003.anifastcdn.info/videos/hls/ZSU17KyQiMKIxK4gbRHAmw/1686860756/3572/0b594d900f47daabc194844092384914/ep.14.1677592460.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzU3Mg==&token=osPPRXVn9IsxMeR32sfLoQ&expires=1686853555"
+    }
+  },
+  {
+    "episodeNumber": 15,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzU3Ng==&token=NLfluFL8tOOrWnR03WVD7A&expires=1686853558"
+      },
+      "sources": [
+        {
+          "url": "https://www007.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.15.1677593431.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www007.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.15.1677593431.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www007.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.15.1677593431.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www007.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.15.1677593431.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www007.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.15.1677593431.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www007.anifastcdn.info/videos/hls/gr1m4fSGjJDLCGebUnGLOg/1686860759/3576/0b594d900f47daabc194844092384914/ep.15.1677593431.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzU3Ng==&token=NLfluFL8tOOrWnR03WVD7A&expires=1686853558"
+    }
+  },
+  {
+    "episodeNumber": 16,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzU4MA==&token=OH25j6qgufCi5jSjTOOfJg&expires=1686853562"
+      },
+      "sources": [
+        {
+          "url": "https://www011.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.16.1677649136.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www011.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.16.1677649136.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www011.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.16.1677649136.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www011.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.16.1677649136.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www011.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.16.1677649136.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www011.anifastcdn.info/videos/hls/JofI1sv0AsxzqGQkymCIVg/1686860762/3580/0b594d900f47daabc194844092384914/ep.16.1677649136.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzU4MA==&token=OH25j6qgufCi5jSjTOOfJg&expires=1686853562"
+    }
+  },
+  {
+    "episodeNumber": 17,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzU4Mg==&token=O2h04O2nqXQjaMDLFxqBwQ&expires=1686853566"
+      },
+      "sources": [
+        {
+          "url": "https://www013.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.17.1677609024.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www013.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.17.1677609024.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www013.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.17.1677609024.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www013.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.17.1677609024.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www013.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.17.1677609024.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www013.anifastcdn.info/videos/hls/Wx3xVYdCAHc_JsC6Pv7Vow/1686860768/3582/0b594d900f47daabc194844092384914/ep.17.1677609024.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzU4Mg==&token=O2h04O2nqXQjaMDLFxqBwQ&expires=1686853566"
+    }
+  },
+  {
+    "episodeNumber": 18,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzU4Ng==&token=HPGyp29E9c_t6UTn7q10Mg&expires=1686853685"
+      },
+      "sources": [
+        {
+          "url": "https://www017.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.18.1677609168.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www017.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.18.1677609168.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www017.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.18.1677609168.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www017.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.18.1677609168.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www017.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.18.1677609168.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www017.anifastcdn.info/videos/hls/H9ux81xBMGQxFJHiR0lKcw/1686860885/3586/0b594d900f47daabc194844092384914/ep.18.1677609168.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzU4Ng==&token=HPGyp29E9c_t6UTn7q10Mg&expires=1686853685"
+    }
+  },
+  {
+    "episodeNumber": 19,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzU4Nw==&token=V2sHsWO7xOSAjwXOwl0pLg&expires=1686853777"
+      },
+      "sources": [
+        {
+          "url": "https://www018.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.19.1677609040.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www018.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.19.1677609040.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www018.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.19.1677609040.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www018.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.19.1677609040.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www018.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.19.1677609040.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www018.anifastcdn.info/videos/hls/P7P7jOPc97vesLxX1cf3Xg/1686860978/3587/0b594d900f47daabc194844092384914/ep.19.1677609040.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzU4Nw==&token=V2sHsWO7xOSAjwXOwl0pLg&expires=1686853777"
+    }
+  },
+  {
+    "episodeNumber": 20,
+    "vidstreaming": {
+      "headers": {
+        "Referer": "https://gotaku1.com/embedplus?id=MzU5MA==&token=-gVHD1TvLX86ZW4b7YIY5A&expires=1686853780"
+      },
+      "sources": [
+        {
+          "url": "https://www021.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.20.1677648778.360.m3u8",
+          "isM3U8": true,
+          "quality": "360p"
+        },
+        {
+          "url": "https://www021.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.20.1677648778.480.m3u8",
+          "isM3U8": true,
+          "quality": "480p"
+        },
+        {
+          "url": "https://www021.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.20.1677648778.720.m3u8",
+          "isM3U8": true,
+          "quality": "720p"
+        },
+        {
+          "url": "https://www021.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.20.1677648778.1080.m3u8",
+          "isM3U8": true,
+          "quality": "1080p"
+        },
+        {
+          "url": "https://www021.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.20.1677648778.m3u8",
+          "isM3U8": true,
+          "quality": "default"
+        },
+        {
+          "url": "https://www021.anifastcdn.info/videos/hls/1RaJR9PKhGAVZUZYFhVcpQ/1686860981/3590/0b594d900f47daabc194844092384914/ep.20.1677648778.m3u8",
+          "isM3U8": true,
+          "quality": "backup"
+        }
+      ],
+      "download": "https://gogohd.net/download?id=MzU5MA==&token=-gVHD1TvLX86ZW4b7YIY5A&expires=1686853780"
+    }
+  }
+]

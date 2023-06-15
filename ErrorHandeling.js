@@ -14,7 +14,7 @@ const fetchData = async (episodeNo) => {
 };
 
 const writeEpisodeDataToFile = async () => {
-  const episodes = 100;
+  const episodes = 200;
   const jsonFile = "episode_data.json";
 
   try {
@@ -26,14 +26,19 @@ const writeEpisodeDataToFile = async () => {
       jsonData = JSON.parse(existingData);
     }
 
-    for (let episodeNo = 21; episodeNo <= episodes; episodeNo++) {
-      const data = await fetchData(episodeNo);
-      const episodeData = {
-        episodeNumber: episodeNo,
-        vidstreaming: data,
-      };
-      jsonData.push(episodeData);
-      console.log(`Episode ${episodeNo} processed.`);
+    for (let episodeNo = 101; episodeNo <= episodes; episodeNo++) {
+      try {
+        const data = await fetchData(episodeNo);
+        const episodeData = {
+          episodeNumber: episodeNo,
+          vidstreaming: data,
+        };
+        jsonData.push(episodeData);
+        console.log(`Episode ${episodeNo} processed.`);
+      } catch (err) {
+        console.error(`Error processing episode ${episodeNo}:`, err);
+        episodeNo = episodeNo - 1;
+      }
     }
 
     fs.writeFileSync(jsonFile, JSON.stringify(jsonData, null, 2));

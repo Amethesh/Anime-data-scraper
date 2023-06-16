@@ -1,6 +1,7 @@
 import axios from "axios";
 import fs from "fs";
 import path from "path";
+import generateReport from "./generateReport.js";
 
 const __dirname = path.resolve();
 
@@ -115,13 +116,16 @@ async function fetchAllEpisodesData(animeId, episodeStart, episodeEnd) {
 
   // Close the log stream
   logStream.end();
-  console.log(`Log file '${logFile}' created successfully.`);
+  console.log(`Log file '${logFilePath}' created successfully.`);
   // return episodeData;
+
+  // Generate report
+  await generateReport(jsonFilePath);
 }
 
 const animeId = 21; //MAL ID of one-piece
-const episodeStart = 1;
-const episodeEnd = 20;
+const episodeStart = 101;
+const episodeEnd = 200;
 
 fetchAllEpisodesData(animeId, episodeStart, episodeEnd);
 

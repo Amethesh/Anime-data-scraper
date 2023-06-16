@@ -1,6 +1,6 @@
 import axios from "axios";
 import fs from "fs";
-import path from "path"
+import path from "path";
 
 const __dirname = path.resolve();
 
@@ -19,8 +19,8 @@ const fetchData = async (episodeNo) => {
 const writeEpisodeDataToFile = async () => {
   const episodeStart = 1001;
   const episodeEnd = 1065;
-  const jsonFile = path.join(__dirname,"data","vidstream_links.json");
-  const logFile = path.join(__dirname, "logs","vidstream.log");
+  const jsonFile = path.join(__dirname, "data", "vidstream_links.json");
+  const logFile = path.join(__dirname, "logs", "vidstream.log");
 
   try {
     let jsonData = [];
@@ -46,7 +46,7 @@ const writeEpisodeDataToFile = async () => {
       process.stderr.write(`[ERROR] ${error}\n`);
     };
 
-    for (let episodeNo = episodeStart; episodeNo <= episodeEnd; episodeNo++) { 
+    for (let episodeNo = episodeStart; episodeNo <= episodeEnd; episodeNo++) {
       try {
         const data = await fetchData(episodeNo);
         const episodeData = {

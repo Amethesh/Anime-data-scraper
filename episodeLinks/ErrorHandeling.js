@@ -1,5 +1,8 @@
 import axios from "axios";
 import fs from "fs";
+import path from "path"
+
+const __dirname = path.resolve();
 
 const fetchData = async (episodeNo) => {
   const url = `https://api.consumet.org/anime/gogoanime/watch/one-piece-episode-${episodeNo}`;
@@ -14,9 +17,10 @@ const fetchData = async (episodeNo) => {
 };
 
 const writeEpisodeDataToFile = async () => {
-  const episodes = 520;
-  const jsonFile = "test_episode_data.json";
-  const logFile = "test-log.log";
+  const episodeStart = 760;
+  const episodeEnd = 800;
+  const jsonFile = path.join(__dirname,"data","test_episode_data.json");
+  const logFile = path.join(__dirname, "logs","test-log.log");
 
   try {
     let jsonData = [];
@@ -42,7 +46,7 @@ const writeEpisodeDataToFile = async () => {
       process.stderr.write(`[ERROR] ${error}\n`);
     };
 
-    for (let episodeNo = 501; episodeNo <= episodes; episodeNo++) {
+    for (let episodeNo = episodeStart; episodeNo <= episodeEnd; episodeNo++) { 
       try {
         const data = await fetchData(episodeNo);
         const episodeData = {
@@ -53,7 +57,9 @@ const writeEpisodeDataToFile = async () => {
         console.log(`Episode ${episodeNo} processed.`);
       } catch (err) {
         console.error(`Error processing episode ${episodeNo}: ${err}`);
-        episodeNo = episodeNo - 1;
+        if (err.message !== "Request failed with status code 404") {
+          episodeNo = episodeNo - 1;
+        }
       }
     }
 

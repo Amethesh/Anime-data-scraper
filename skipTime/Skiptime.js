@@ -124,8 +124,8 @@ async function fetchAllEpisodesData(animeId, episodeStart, episodeEnd) {
 }
 
 const animeId = 21; //MAL ID of one-piece
-const episodeStart = 401;
-const episodeEnd = 500;
+const episodeStart = 801;
+const episodeEnd = 1065;
 
 fetchAllEpisodesData(animeId, episodeStart, episodeEnd);
 

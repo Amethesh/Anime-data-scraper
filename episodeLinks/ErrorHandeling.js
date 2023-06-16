@@ -17,10 +17,10 @@ const fetchData = async (episodeNo) => {
 };
 
 const writeEpisodeDataToFile = async () => {
-  const episodeStart = 760;
-  const episodeEnd = 800;
-  const jsonFile = path.join(__dirname,"data","test_episode_data.json");
-  const logFile = path.join(__dirname, "logs","test-log.log");
+  const episodeStart = 1001;
+  const episodeEnd = 1065;
+  const jsonFile = path.join(__dirname,"data","vidstream_links.json");
+  const logFile = path.join(__dirname, "logs","vidstream.log");
 
   try {
     let jsonData = [];
